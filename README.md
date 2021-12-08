@@ -1,3 +1,9 @@
+
+Shean Michael Aqshafa Ditamaputra 123190096 Informatika UPN Veteran Yogyakarta
+
+Repository berisikan kode terkait website Artikel Anime menggunakan laravel dan bootstrap. Fungsi utamanya untuk menampilkan sinopsis Anime dan di dalam website terdapat beberapa fitur seperti: create data, edit data, dan delete data.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
